@@ -1,0 +1,15 @@
+@import './base.css';
+
+#app {
+  --aws-dark-blue: #252f3e;
+  --aws-light-blue: #00b5e2;
+  --aws-yellow: #ff9900;
+}
+
+a,
+.green {
+  text-decoration: none;
+  color: hsla(160, 100%, 37%, 1);
+  transition: 0.4s;
+  padding: 3px;
+}
